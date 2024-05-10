@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albandungiy 
-- 👀 I’m interested in Wen & Mobile Programming
+- 👀 I’m interested in Web & Mobile Programming
 - 🌱 I’m currently learning Laravel and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @alwa.aziz
